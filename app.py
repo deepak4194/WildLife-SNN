@@ -11,7 +11,7 @@ st.set_page_config(page_title="Wildlife SNN Classifier", layout="wide")
 
 st.markdown(
     """
-    <h1 style='text-align: center; color: #4CAF50;'>🦛 🐘 🦏 🦓 Wildlife Image Classifier using Spiking Neural Networks</h1>
+    <h1 style='text-align: center; color: #4CAF50;'>🐃 🐘 🦏 🦓 Wildlife Image Classifier using Spiking Neural Networks</h1>
     <p style='text-align: center;'>Buffalo | Elephant | Rhino | Zebra</p>
     <hr>
     """, unsafe_allow_html=True
@@ -26,7 +26,7 @@ with left_col:
     st.markdown("""
     Welcome to our **Wildlife Image Classification App**! This project uses a **Spiking Neural Network (SNN)** built with PyTorch and snnTorch to classify images of four wild animals:
     
-    - 🦛 **Buffalo**
+    - 🐃 **Buffalo**
     - 🐘 **Elephant**
     - 🦏 **Rhino**
     - 🦓 **Zebra**
