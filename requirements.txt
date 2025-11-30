@@ -1,9 +1,8 @@
 streamlit
-torch==2.6.0
-torchvision==0.21.0
-snntorch
+ultralytics
+torch
+torchvision
 numpy
-pandas
-scikit-learn
-matplotlib
 Pillow
+opencv-python-headless
+snntorch==0.8.1
