@@ -5,4 +5,4 @@ torchvision
 numpy
 Pillow
 opencv-python-headless
-snntorch==0.8.1
+snntorch
